@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "NativeUnityDialog"
+rootProject.name = "LittlebitPlugins"
 include ':app'
+include ':nativepopups'
